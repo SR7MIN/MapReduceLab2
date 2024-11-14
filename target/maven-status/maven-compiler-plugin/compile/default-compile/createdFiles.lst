@@ -1,0 +1,8 @@
+com/example/task1/DailyFlowMapper.class
+com/example/task2/WeeklyFlowMapper.class
+com/example/task3/UserActivityMapper.class
+com/example/App.class
+com/example/task1/DailyFlowReducer.class
+com/example/MainDriver.class
+com/example/task3/UserActivityReducer.class
+com/example/task2/WeeklyFlowReducer.class
